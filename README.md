@@ -41,11 +41,6 @@ I'm a passionate software developer with experience in a wide range of technolog
 - **Certifications:** Python Data Science from [Platform Name](link)
 - **Hackathons:** Winner of [Hackathon Name](link)
 
-### 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haymanot77&repo=yourrepository1)](https://github.com/yourusername/yourrepository1)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haymanot77&repo=yourrepository2)](https://github.com/yourusername/yourrepository2)
 
 
 ### 📊 GitHub Stats:
