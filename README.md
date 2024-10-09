@@ -41,11 +41,12 @@ I'm a passionate software developer with experience in a wide range of technolog
 - **Certifications:** Python Data Science from [Platform Name](link)
 - **Hackathons:** Winner of [Hackathon Name](link)
 
-### 🌟 Projects:
-- [**Project 1**](link) – A short description of your project. Tech stack: `React`, `Node.js`, `MongoDB`.
-- [**Project 2**](link) – Another great project description. Tech stack: `Django`, `PostgreSQL`.
+### 📌 Pinned Repositories
 
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository1)](https://github.com/yourusername/yourrepository1)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository2)](https://github.com/yourusername/yourrepository2)
+
 
 ### 📊 GitHub Stats:
 
