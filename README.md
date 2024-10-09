@@ -1,4 +1,4 @@
-# Hi, I'm [Haymanot Alemayoh]! 👋
+# Hi, I'm Haymanot Alemayoh 👋
 
 I'm a passionate software developer with experience in a wide range of technologies. I enjoy building creative solutions to real-world problems and am always open to collaboration.
 
@@ -43,9 +43,9 @@ I'm a passionate software developer with experience in a wide range of technolog
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository1)](https://github.com/yourusername/yourrepository1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haymanot77&repo=yourrepository1)](https://github.com/yourusername/yourrepository1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository2)](https://github.com/yourusername/yourrepository2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haymanot77&repo=yourrepository2)](https://github.com/yourusername/yourrepository2)
 
 
 ### 📊 GitHub Stats:
