@@ -28,18 +28,6 @@ I'm a passionate software developer with experience in a wide range of technolog
 
 ---
 
-### 🏆 Accomplishments:
-- **Open Source Contributions:** Contributor to [Project Name](link to project)
-- **Certifications:** Python Data Science from [Platform Name](link)
-- **Hackathons:** Winner of [Hackathon Name](link)
-
-### 🌟 Projects:
-- [**Project 1**](link) – A short description of your project. Tech stack: `React`, `Node.js`, `MongoDB`.
-- [**Project 2**](link) – Another great project description. Tech stack: `Django`, `PostgreSQL`.
-
----
-
-
 ### 🔝 Top Languages:
 
 <p align="center">
