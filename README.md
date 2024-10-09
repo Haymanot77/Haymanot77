@@ -31,11 +31,8 @@ I'm a passionate software developer with experience in a wide range of technolog
 ### 🌐 Computer Networking & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/TCP/IP-009639?style=for-the-badge&logo=protocols.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS-003366?style=for-the-badge&logo=protocols.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wi--Fi-000000?style=for-the-badge&logo=wi-fi&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewall-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
 </p>
 
 ---
@@ -63,7 +60,7 @@ I'm a passionate software developer with experience in a wide range of technolog
 ### 🔝 Top Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haymanot77&layout=compact&theme=radical" alt="
 
 
 ---
