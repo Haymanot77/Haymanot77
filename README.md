@@ -1,6 +1,13 @@
 # Hi, I'm Haymanot Alemayoh 👋
 
-I'm a passionate software developer with experience in a wide range of technologies. I enjoy building creative solutions to real-world problems and am always open to collaboration.
+I'm a passionate **Computer Science student** with a love for problem-solving, learning, and building impactful solutions. Whether it's piecing together complex puzzles or connecting dots across different domains, I enjoy seeing the bigger picture and making things happen.
+
+- 🔍 I have a knack for **identifying patterns**, connecting ideas, and finding creative ways to solve problems.
+- 🚀 I’m interested in **Software Development**, **Cloud Computing**, and **Artificial Intelligence**.
+- 🌱 I love learning new technologies and applying them to real-world problems.
+- 💡 I believe that every problem presents an opportunity to learn something new and create something meaningful.
+
+---
 
 ---
 
