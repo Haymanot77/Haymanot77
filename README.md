@@ -30,7 +30,7 @@ I'm a passionate software developer with experience in a wide range of technolog
 
 ### 🔝 Top Languages:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haymanot77&layout=compact&theme=radical" alt="Top Languages"/> 
 
 
