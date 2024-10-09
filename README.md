@@ -31,7 +31,7 @@ I'm a passionate software developer with experience in a wide range of technolog
 ### 🔝 Top Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haymanot77&layout=compact&theme=radical" alt="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haymanot77&layout=compact&theme=radical" alt="Top Languages"/> 
 
 
 ---
