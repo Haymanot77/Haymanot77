@@ -43,11 +43,6 @@ I'm a passionate **Computer Science student** with a love for problem-solving, l
 
 ---
 
-### 🏆 Accomplishments:
-- **Open Source Contributions:** Contributor to [Project Name](link to project)
-- **Certifications:** Python Data Science from [Platform Name](link)
-- **Hackathons:** Winner of [Hackathon Name](link)
-
 
 
 ### 📊 GitHub Stats:
