@@ -1,4 +1,4 @@
-# Hi, I'm Haymanot Alemayoh 👋
+# Hi, I'm Haymanot Alemayoh 
 
 I'm a passionate **Computer Science student** with a love for problem-solving, learning, and building impactful solutions. Whether it's piecing together complex puzzles or connecting dots across different domains, I enjoy seeing the bigger picture and making things happen.
 
