@@ -48,8 +48,8 @@ I'm a passionate **Computer Science student** with a love for problem-solving, l
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haymanot77&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haymanot77&theme=radical" alt="Your GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haymanot77&show_icons=true&theme=radical" alt="Haymanot's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haymanot77&theme=radical" alt="Haymanot's GitHub streak stats" />
 </p>
 
 ---
